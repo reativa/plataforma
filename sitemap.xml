@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://plataforma.reativa.dev/backend</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/articles</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/css</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/devops</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/git</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/frontend</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/introduction</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/radar</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/articles/1_faculdade</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/articles/como-fazer-as-empresas-sairem-no-tapa</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/articles/como-manter-um-dev-rotatitividade</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/articles/melhores-empresas-para-nao-trabalhar</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/javascript/eloquent-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/articles/startups-ou-tradicionais</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/javascript/idiomatic-js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/javascript/js-best-practices</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/javascript/js-interview</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/deno</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/deno/1_deno</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/deno/2_porque_usar_deno</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/deno/3_devo_aprender_deno</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/deno/4_como_instalar_deno</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plataforma.reativa.dev/javascript/5_js_examples</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+</urlset>
